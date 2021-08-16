@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T09:25:19.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NCD9Sc-YjNv_ZsaEnH7t" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T12:57:05.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="_Vj9u-HggKkjr2k1NhnF" version="14.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2893" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="XjWRssDStmMOObhruf7y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="XjWRssDStmMOObhruf7y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="自动生成长期医嘱执行计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="自动执行长期医嘱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="50" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XjWRssDStmMOObhruf7y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-3" target="XjWRssDStmMOObhruf7y-21" edge="1">
@@ -296,6 +296,9 @@
         <mxCell id="iz61aECx3yZmev5RQFaN-80" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="2220" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-111" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-81" target="iz61aECx3yZmev5RQFaN-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iz61aECx3yZmev5RQFaN-81" value="放入ThreadLocal，待后续处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -342,6 +345,51 @@
         </mxCell>
         <mxCell id="iz61aECx3yZmev5RQFaN-101" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="2530" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-115" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-110" target="iz61aECx3yZmev5RQFaN-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-110" value="取出线程局部变量中的执行计划，校验是否为首次执行，首次执行打上非手动执行标记" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="2720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-117" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-114" target="iz61aECx3yZmev5RQFaN-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-114" value="入库，插入执行计划表" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-119" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-116" target="iz61aECx3yZmev5RQFaN-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-116" value="生成毒麻登记记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-125" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-118" target="iz61aECx3yZmev5RQFaN-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-129" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-118" target="iz61aECx3yZmev5RQFaN-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-118" value="如果有检验医嘱，生成检验申请单" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="3170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-120" value="注：12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="3000" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-121" value="注12：每次医嘱执行后都会生成毒麻登记记录，特殊药品需要特殊管控；涉及表nurse_station_db.biz_medicinal_enrollment 药品残余登记本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="2400" width="760" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-131" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-124" target="iz61aECx3yZmev5RQFaN-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-124" value="如果有检查医嘱单，进行检查医嘱复核" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="3310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-128" value="失败则存入缓存中重试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="3170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-130" value="失败则存入缓存中重试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="3310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
