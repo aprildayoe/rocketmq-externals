@@ -1,152 +1,347 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T14:38:19.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="nk9nMho7lFxVkDAFdLkQ" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T09:25:19.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NCD9Sc-YjNv_ZsaEnH7t" version="14.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="XjWRssDStmMOObhruf7y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="XjWRssDStmMOObhruf7y-10">
+        <mxCell id="XjWRssDStmMOObhruf7y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="XjWRssDStmMOObhruf7y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="自动生成长期医嘱执行计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="50" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-3" target="XjWRssDStmMOObhruf7y-21">
+        <mxCell id="XjWRssDStmMOObhruf7y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-3" target="XjWRssDStmMOObhruf7y-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-3" value="机构纬度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-3" value="机构纬度" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="195" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-4" target="XjWRssDStmMOObhruf7y-56">
+        <mxCell id="XjWRssDStmMOObhruf7y-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-4" target="XjWRssDStmMOObhruf7y-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-4" value="病区纬度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-4" value="病区纬度" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-10" target="XjWRssDStmMOObhruf7y-3">
+        <mxCell id="XjWRssDStmMOObhruf7y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-10" target="XjWRssDStmMOObhruf7y-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-10" target="XjWRssDStmMOObhruf7y-4">
+        <mxCell id="XjWRssDStmMOObhruf7y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-10" target="XjWRssDStmMOObhruf7y-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-10" value="定时任务是否携带参数" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-10" value="定时任务是否携带参数" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="153.32999999999998" y="180" width="133.34" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-14" value="xxljob:医嘱执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="20" width="145" height="80" as="geometry" />
+        <mxCell id="XjWRssDStmMOObhruf7y-14" value="xxljob:医嘱执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="45" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="305" y="200" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-21" target="XjWRssDStmMOObhruf7y-24">
+        <mxCell id="XjWRssDStmMOObhruf7y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-21" target="XjWRssDStmMOObhruf7y-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-21" target="XjWRssDStmMOObhruf7y-27">
+        <mxCell id="XjWRssDStmMOObhruf7y-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-21" target="XjWRssDStmMOObhruf7y-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-21" value="redis是否有机构缓存" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-21" value="redis是否有机构缓存" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="310" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-24" target="XjWRssDStmMOObhruf7y-27">
+        <mxCell id="XjWRssDStmMOObhruf7y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-24" target="XjWRssDStmMOObhruf7y-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-24" value="查询oc.dict_institution表中所有在用机构信息存入缓存" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-24" value="查询oc.dict_institution表中所有在用机构信息存入缓存" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="325" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-26" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-26" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="330" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-27" target="XjWRssDStmMOObhruf7y-41">
+        <mxCell id="XjWRssDStmMOObhruf7y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-27" target="XjWRssDStmMOObhruf7y-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-27" value="查询自动生成执行计划时间&lt;br&gt;默认：23:30" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-27" value="查询自动生成执行计划时间&lt;br&gt;默认：23:30" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="495" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-41" target="XjWRssDStmMOObhruf7y-43">
+        <mxCell id="XjWRssDStmMOObhruf7y-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-41" target="XjWRssDStmMOObhruf7y-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-41" target="XjWRssDStmMOObhruf7y-46">
+        <mxCell id="XjWRssDStmMOObhruf7y-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-41" target="XjWRssDStmMOObhruf7y-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-41" value="当前时间是否在允许生成对应药品执行计划之后" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-41" value="当前时间是否在允许生成对应药品执行计划之后" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365" y="600" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-43" value="结束，当前任务放在redis队列等待下次执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-43" value="结束，当前任务放在redis队列等待下次执行" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-45" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-45" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="620" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-46" target="XjWRssDStmMOObhruf7y-4">
+        <mxCell id="XjWRssDStmMOObhruf7y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-46" target="XjWRssDStmMOObhruf7y-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-46" value="根据机构查询病区下的所有康复型长期医嘱" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-46" value="根据机构查询病区下的所有康复型长期医嘱" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-48" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-48" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="720" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-50" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-50" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="195" y="270" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-52" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;&lt;/p&gt;&lt;font color=&quot;#0f1721&quot; face=&quot;helvetica neue&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;注1：&lt;/span&gt;&lt;/font&gt;查询自动生成执行计划时间&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;basic_support_db.biz_system_parameter_configure&amp;nbsp;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;系统参数用户配置表&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;若上表查不到数据，查&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;basic_support_db.biz_system_parameter_template&amp;nbsp;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;系统参数模板表&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;不同类型的药品医嘱生成时间不一样&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1030" y="35" width="470" height="100" as="geometry" />
+        <mxCell id="XjWRssDStmMOObhruf7y-52" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;&lt;/p&gt;&lt;font color=&quot;#0f1721&quot; face=&quot;helvetica neue&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;注1：&lt;/span&gt;&lt;/font&gt;查询自动生成执行计划时间&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;basic_support_db.biz_system_parameter_configure&amp;nbsp;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;系统参数用户配置表&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;若上表查不到数据，查&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;basic_support_db.biz_system_parameter_template&amp;nbsp;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;系统参数模板表&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;不同类型的药品医嘱生成时间不一样&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="985" y="60" width="470" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-53" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;注2：查询机构涉及的表&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;oc.dict_location &lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;地点管理表（病区、部门）&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;inhospital_register_db.biz_inpatient_order &lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;医嘱住院主表&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="160" width="360" height="70" as="geometry" />
+        <mxCell id="XjWRssDStmMOObhruf7y-53" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;注2：查询机构涉及的表&lt;span&gt;oc.dict_location &lt;/span&gt;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;地点管理表（病区、部门）&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; color: rgb(15 , 23 , 33)&quot;&gt;inhospital_register_db.biz_inpatient_order &lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;医嘱住院主表&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="985" y="180" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-54" value="注：1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-54" value="注：1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="455" y="470" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-55" value="注：2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-55" value="注：2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="455" y="760" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-56" target="XjWRssDStmMOObhruf7y-60">
+        <mxCell id="XjWRssDStmMOObhruf7y-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-56" target="XjWRssDStmMOObhruf7y-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-56" value="分别过滤出长期医嘱和临时医嘱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-56" value="分别过滤出长期医嘱和临时医嘱" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="450" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-58" value="注：3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-58" value="注：3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="225" y="420" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-59" value="注3： 该流程在当前逻辑下多余" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="260" width="180" height="20" as="geometry" />
+        <mxCell id="XjWRssDStmMOObhruf7y-59" value="注3： 该流程在当前逻辑下多余" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="985" y="260" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-60" target="XjWRssDStmMOObhruf7y-63">
+        <mxCell id="XjWRssDStmMOObhruf7y-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-60" target="XjWRssDStmMOObhruf7y-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-60" target="XjWRssDStmMOObhruf7y-66">
+        <mxCell id="XjWRssDStmMOObhruf7y-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-60" target="XjWRssDStmMOObhruf7y-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-60" value="医嘱当天是否有执行限制" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-60" value="医嘱当天是否有执行限制" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="145" y="585" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-63" value="结束，当前任务放在redis队列等待下次执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-63" value="结束，当前任务放在redis队列等待下次执行" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-70" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-65" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-65" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="75" y="610" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-66" value="获取机构参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iz61aECx3yZmev5RQFaN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-66" target="iz61aECx3yZmev5RQFaN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XjWRssDStmMOObhruf7y-66" target="iz61aECx3yZmev5RQFaN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XjWRssDStmMOObhruf7y-66" value="生成执行计划" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-68" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-68" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="710" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-69" value="注：4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-69" value="注：4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="5" y="570" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XjWRssDStmMOObhruf7y-70" value="注4： 涉及表nurse_station_db.biz_order_exe_limit_detail 医嘱执行当天执行限制明细 (目前该表未使用)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XjWRssDStmMOObhruf7y-70" value="注4： 涉及表nurse_station_db.biz_order_exe_limit_detail 医嘱执行当天执行限制明细 (目前该表未使用)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="985" y="305" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-0" target="iz61aECx3yZmev5RQFaN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-0" value="获取机构配置-药品拆封配置&lt;br&gt;查询医嘱中药品的频次、用法等信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-2" value="注：5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1000" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-3" value="注5：涉及表：medication_management_db.dict_medication_usage 药品用法字典&lt;br&gt;medication_management_db.dict_frequency_info 医嘱频次&lt;br&gt;查询这些数据是为了生成执行计划时，组装信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="345" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-4" value="临时医嘱" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-7" target="iz61aECx3yZmev5RQFaN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-7" value="长期医嘱" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-10" value="注：6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="25" y="740" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-11" value="注6：目前流程临时医嘱不走定时任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="400" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-12" target="iz61aECx3yZmev5RQFaN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-12" value="组装执行计划信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-18" target="iz61aECx3yZmev5RQFaN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-18" target="iz61aECx3yZmev5RQFaN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-18" value="是否为原液皮试医嘱" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="1290" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-22" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="1410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-23" value="校验通过，额外生成皮试执行计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-26" target="iz61aECx3yZmev5RQFaN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-26" target="iz61aECx3yZmev5RQFaN-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-26" value="是否为新开医嘱" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="1470" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-34" value="注：7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="1285" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-35" value="注8：通过医嘱主表inhospital_register_db.biz_inpatient_order中order_sign_repair字段区分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="480" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-36" value="注：8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1470" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-37" value="注7：通过nurse_station_db.biz_order_executive_plan表中row_liquid_sign字段区分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="440" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-38" target="iz61aECx3yZmev5RQFaN-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-38" value="执行计划开始时间为当前时间；结束时间根据配置表计算得出" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-40" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="1590" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-41" value="注：9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="1630" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-42" value="注9：不同类型的医嘱生成执行计划的时间不同，需要在注1的表中查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="520" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-57" target="iz61aECx3yZmev5RQFaN-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-57" value="&lt;span&gt;执行计划开始时间为医嘱开始时间；停止时间为医嘱停止时间或当前时间&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-60" target="iz61aECx3yZmev5RQFaN-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-60" value="计算共需生成多少天的执行计划，循环生成当天的执行计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-63" target="iz61aECx3yZmev5RQFaN-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-63" target="iz61aECx3yZmev5RQFaN-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-63" value="当天是否需生成执行计划" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="1920" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-65" value="注：10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="1920" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-66" value="注10：有些执行计划是按照星期生成的，生成时间可能早于医嘱开始时间；有些是间隔性医嘱，并不需要每天生成执行计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="565" width="660" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-67" value="continue" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="1935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-69" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="1940" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-73" target="iz61aECx3yZmev5RQFaN-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-73" target="iz61aECx3yZmev5RQFaN-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-73" value="是否为检验、检查医嘱" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="2410" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-78" value="校验，当天只生成一次执行计划，入库" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="2425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-80" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="2220" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-81" value="放入ThreadLocal，待后续处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="2580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-85" value="注：11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="2400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-86" value="注11：检查、检验类型医嘱，当天只生成一次执行计划，直接插入nurse_station_db.biz_order_executive_plan 医嘱执行计划表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="895" y="1265" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-88" target="iz61aECx3yZmev5RQFaN-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-88" target="iz61aECx3yZmev5RQFaN-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-88" value="药品频次配置表中是否有指定时间" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="2090" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-92" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="2040" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-109" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-93" target="iz61aECx3yZmev5RQFaN-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="2350" />
+              <mxPoint x="220" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-93" value="规则校验，组装执行计划DO；若为皮试医嘱则清空成组标记；若有首日次数，校验通过额外生成执行计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="2087.5" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-95" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="2110" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iz61aECx3yZmev5RQFaN-97" target="iz61aECx3yZmev5RQFaN-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-97" value="校验规则，组装执行计划DO，执行入库操作；若有首日次数，校验通过额外生成执行计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="2250" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-100" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="2430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iz61aECx3yZmev5RQFaN-101" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="2530" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
